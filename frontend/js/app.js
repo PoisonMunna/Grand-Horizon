@@ -4,7 +4,7 @@
 //   Handles: API calls, CRUD, Modals, Toast, Pages
 // ============================================================
 
-const API_BASE = 'http://localhost:3000/api';
+const API_BASE = 'https://grand-horizon.onrender.com/api';
 
 // ============================================================
 // UTILITIES
